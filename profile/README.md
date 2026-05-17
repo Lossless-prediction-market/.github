@@ -13,7 +13,6 @@ Nulloss Markets is a lossless prediction market protocol built on Arc. Users dep
 [![Status](https://img.shields.io/badge/Status-Active%20Development-e8d44d?style=flat-square&labelColor=0a0a0a)](https://github.com/nulloss)
 [![Chain](https://img.shields.io/badge/Chain-Arc-e8d44d?style=flat-square&labelColor=0a0a0a)](https://testnet.arcscan.app)
 [![Language](https://img.shields.io/badge/Solidity-0.8.28-e8d44d?style=flat-square&labelColor=0a0a0a)](https://github.com/nulloss)
-[![Builder](https://img.shields.io/badge/Builder-@jadeofwallstreet-e8d44d?style=flat-square&labelColor=0a0a0a)](https://twitter.com/jadeofwallstreet)
 
 </div>
 
