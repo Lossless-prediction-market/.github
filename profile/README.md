@@ -4,7 +4,7 @@
 
 ### *Predict everything. Lose nothing.*
 
-Nulloss Markets is a lossless prediction market protocol built on Arc. Users deposit stablecoins to predict asset price movements. Their principal is never at risk. The yield generated on deposits during each prediction round becomes the prize pool. Winners earn it, losers reclaim their full deposit.
+Nulloss Markets is a lossless prediction market protocol built on Arc. Users deposit stablecoins to predict asset market outcomes. Their principal is never at risk. The yield generated on deposits during each prediction round becomes the prize pool. Winners earn it, losers reclaim their full deposit.
 
 **Loss is null. Hence the name.**
 
